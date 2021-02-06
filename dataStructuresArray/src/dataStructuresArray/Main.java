@@ -13,7 +13,7 @@ public class Main {
 		         { 
 		            sum += Array[i]; 
 		         }   
-		            	System.out.println("Hey guys! This is the sum of the Array");
+		            	System.out.println("Hey guys! The sum of the array is:");
 		         	System.out.print(sum);
 	
 	}
