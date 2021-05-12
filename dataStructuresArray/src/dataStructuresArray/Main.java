@@ -28,7 +28,7 @@ public class Main {
 		         			index = i1;
 		         		}
 		         	}
-		         // Am I doing something wrong here? I thought when I ran it, I'd get the sum, and then right below it the index? Is it where my system out is positioned? 	
+		         // Am I doing something wrong here? I thought when I ran it, I'd get the sum, and then right below it the index?  	
 		         System.out.println(index);
 				int base = 4;
 		         	int exp = 2;
@@ -40,7 +40,7 @@ public class Main {
 					result[i] =(int)Math.pow(i, size);
 				}
 		        return result; 
-			// We went through this in the lecture but I don't think we were ever able to find out what was going on here, I am still a bit confused but luckily Stuart & Perry helped explain some bits of this to me.
+			
 	}
 
 }
